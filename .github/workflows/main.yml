@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: Ks-Gupta/hello-world-javascript-action@v1.1
+        uses: Ks-Gupta/hello-world-javascript-action@v1.2
         with:
           who-to-greet: Khushi
 
